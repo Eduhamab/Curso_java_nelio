@@ -31,7 +31,8 @@ public class Aula_002_InicioDeFunções {
     }
 
     public static void verResultado(int valor){
-            System.out.printf("O maior é : %d", valor);
+
+        System.out.printf("O maior é : %d", valor);
     }
 
 }
