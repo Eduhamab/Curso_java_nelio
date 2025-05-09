@@ -1,3 +1,5 @@
+package Aulas_nelio_JAVA;
+
 import java.util.Locale;
 import java.util.Scanner;
 
