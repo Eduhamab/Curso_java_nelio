@@ -1,7 +1,5 @@
-package Treinando;
+package Treinando_APP;
 
-import java.util.Scanner;
-import java.util.Locale;
 /*
 // Desafio 1 Crie um programa para receber as notas digitadas pelo usuario e retornar se ele foi aprovado ou reprovado
 public class testes_funções_POO {

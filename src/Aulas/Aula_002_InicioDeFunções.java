@@ -1,4 +1,4 @@
-package Aulas_nelio_JAVA;
+package Aulas;
 
 import java.util.Locale;
 import java.util.Scanner;
